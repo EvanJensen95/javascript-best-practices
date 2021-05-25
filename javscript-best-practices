@@ -1,0 +1,11 @@
+// Javascript Best Practices List
+// Declare and initialize your variables at the top
+// Build modular, specialized functions
+// Recognize and remove duplicate code
+// Recognize and remove duplicate code
+// Avoid Global Variables
+// Initialize Variables
+// Don't Use new Object()
+// Use === Comparison
+// End Your Switches with Defaults
+// Eval = Bad
